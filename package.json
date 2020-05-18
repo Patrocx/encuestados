@@ -8,7 +8,7 @@
   },
   "author": "Patricio Diaz",
   "license": "ISC",
-  "homepage": "https://patrocx.github.io/Encuestados",
+  "homepage": "https://patrocx.github.io/encuestados",
   "dependencies": {
     "gh-pages": "^2.2.0"
   }
